@@ -3,6 +3,14 @@
 ## Description
 This project aims to predict weekly sales for Walmart stores across various departments. By analyzing historical sales data, we can identify trends, seasonal patterns, and factor like holidays. The model developed uses machine learning techniques to forecast future sales, helping Walmart optimize inventory management, staffing, and promotions.
 
+Key features include:
+
+- Data preprocessing and feature engineering
+- Handling missing values and infinite values
+- Implementation of regression models
+- Model evaluation using metrics like RMSE and MAE
+- Visualization of sales trends and predictions
+
 ## Models
 
 The following models were evaluated for bankruptcy prediction:
