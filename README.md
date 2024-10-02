@@ -19,7 +19,7 @@ The table below shows the mean accuracy scores obtained during model training an
 
 | Model                 | Mean Accuracy (Train) | Mean Accuracy (Validation) |
 |-----------------------|-----------------------|-----------------------------|
-| Support Vector Machine (SVM)               | 0.0901                 | 0.0912                       |
+| Linear Regression               | 0.0901                 | 0.0912                       |
 | Decision Tree         | 1.0                 | 0.9522                       |
 | Random Forest         | 0.9968                 | 0.979                       |
 | K-Nearest Neighbors      | 0.5266                 | 0.2828                       |
